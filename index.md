@@ -1,4 +1,4 @@
 # Heading 1
 
 
-![Image og Justice Cat thing](https://octodex.github.com/justicetocat/)
+![Image of Yaktocat](https://octodex.github.com/images/justicetocat.jpg)
