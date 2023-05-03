@@ -7,3 +7,8 @@
 ```
 sudo apt install cmatrix
 ```
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
